@@ -5,7 +5,7 @@
 
 **DEX Aggregator and Swap API for Solana**
 
-[![Public Beta](https://img.shields.io/badge/Status-Public%20Beta-blueviolet?style=flat-square)](https://github.com/solanatracker/raptor)
+[![Private Beta](https://img.shields.io/badge/Status-Public%20Beta-blueviolet?style=flat-square)](https://github.com/solanatracker/raptor)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-14F195?style=flat-square&logo=solana)](https://solana.com)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Kj3CR65KpR)
 ![Raptor](https://i.imgur.com/0mRqfmL.jpeg)
@@ -172,18 +172,18 @@ ws.onmessage = (event) => {
 -h, --help                   Show help
 -v, --version                Show version
 
---no-pool-indexer            Disable Yellowstone pool indexer
+--no-pool-indexer            Disable loading pools from Oracle
 --include-dexes <DEXES>      Only include these DEXes (comma-separated)
 --exclude-dexes <DEXES>      Exclude these DEXes (comma-separated)
 --workers <N>                Worker threads (default: CPU cores)
---rpc-rate-limit <N>         RPC calls per second limit
+--rpc-rate-limit <N>         Max RPC calls per second limit
 
 --enable-arbitrage           Enable circular arbitrage routes
 --enable-quote-and-swap      Enable /quote-and-swap endpoint
 --enable-websocket           Enable WebSocket at /stream
 --enable-yellowstone-jet     Enable Jet TPU for /send-transaction
 
---jet-identity <PATH>        Identity keypair path
+--jet-identity <PATH>        Identity keypair path (optional)
 --jet-identities <N>         Number of identities (default: 4)
 ```
 
@@ -239,7 +239,7 @@ for (const event of tx.events ?? []) {
 
 This is a closed-source project. The repository hosts binary releases only.
 
-For bug reports, feature requests, or suggestions, please [open an issue](https://github.com/solanatracker/raptor/issues).
+For bug reports, feature requests, or suggestions, please [open an issue](https://github.com/solanatracker/raptor-binary/issues).
 
 Join the [Discord](https://discord.gg/Kj3CR65KpR) to chat with the team and community.
 
@@ -249,6 +249,6 @@ Join the [Discord](https://discord.gg/Kj3CR65KpR) to chat with the team and comm
 
 **Public Beta — January 30, 2025**
 
-Built by [SolanaTracker](https://www.solanatracker.io)
+Built by [Solana Tracker](https://www.solanatracker.io)
 
 </div>
