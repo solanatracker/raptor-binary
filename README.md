@@ -36,6 +36,7 @@ If you find Raptor useful, consider starring this repo.
 - Dynamic slippage based on volatility and route complexity
 - Platform fee support (configurable, taken from input or output)
 - DEX and pool filtering per request
+- Arbitrage support
 
 ---
 
