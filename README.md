@@ -8,7 +8,7 @@
 [![Private Beta](https://img.shields.io/badge/Status-Private%20Beta-blueviolet?style=flat-square)](https://github.com/solanatracker/raptor)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-14F195?style=flat-square&logo=solana)](https://solana.com)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Kj3CR65KpR)
-![Raptor](https://i.imgur.com/0mRqfmL.jpeg)
+![Raptor](https://i.imgur.com/mlKeoVW.jpeg)
 
 [Getting Started](#getting-started) · [API Reference](#api-endpoints) · [Configuration](#configuration) · [Discord](https://discord.gg/Gfnwee4T6S)
 
