@@ -248,7 +248,7 @@ Join the [Discord](https://discord.gg/Kj3CR65KpR) to chat with the team and comm
 
 <div align="center">
 
-**Public Beta — January 30, 2025**
+**Public Beta — API is now live. Binary coming on February 4. **
 
 Built by [Solana Tracker](https://www.solanatracker.io)
 
