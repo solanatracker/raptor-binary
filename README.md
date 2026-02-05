@@ -5,7 +5,7 @@
 
 **DEX Aggregator and Swap API for Solana**
 
-[![Private Beta](https://img.shields.io/badge/Status-Private%20Beta-blueviolet?style=flat-square)](https://github.com/solanatracker/raptor)
+[![Public Beta](https://img.shields.io/badge/Status-Public%20Beta-blueviolet?style=flat-square)](https://github.com/solanatracker/raptor-binary)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-14F195?style=flat-square&logo=solana)](https://solana.com)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Kj3CR65KpR)
 ![Raptor](https://i.imgur.com/mlKeoVW.jpeg)
@@ -248,7 +248,7 @@ Join the [Discord](https://discord.gg/Kj3CR65KpR) to chat with the team and comm
 
 <div align="center">
 
-**Public Beta — API is now live. Binary coming on February 4. **
+**Public Beta — API and binary are now available **
 
 Built by [Solana Tracker](https://www.solanatracker.io)
 
