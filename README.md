@@ -236,6 +236,10 @@ for (const event of tx.events ?? []) {
 
 ---
 
+## Frequently Asked Questions
+Is this an alternative to the Metis Binary? Yes this can be seen as an alternative to the Metis Binary. 
+Raptor does not require a binary key, has no limits and can be resold. 
+
 ## Issues and Feedback
 
 This is a closed-source project. The repository hosts binary releases only.
