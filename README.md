@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Kj3CR65KpR)
 ![Raptor](https://i.imgur.com/mlKeoVW.jpeg)
 
-[Getting Started](#getting-started) · [API Reference](#api-endpoints) · [Configuration](#configuration) · [Discord](https://discord.gg/Gfnwee4T6S)
+[Getting Started](#getting-started) · [Documentation](https://docs.solanatracker.io/raptor/overview) · [Configuration](#configuration) · [Discord](https://discord.gg/Gfnwee4T6S)
 
 </div>
 
